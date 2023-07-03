@@ -1,4 +1,0 @@
-pyOpenSSL
-secrets
-bcrypt
-flask
